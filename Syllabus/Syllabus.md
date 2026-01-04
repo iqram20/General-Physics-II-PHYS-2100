@@ -7,10 +7,11 @@ PHYS 2100 is the second semester of calculus-based General Physics. Topics inclu
 
 ---
 
-## Textbook
+## Textbook (Main)
 **OpenStax College Physics, Volume 2**  
 (Open-access)
-
+## Textbook (Optional)  
+Physics Textbook, 5th Edition by James S. Walker  
 ---
 
 ## Weekly Course Schedule (Tentative)
