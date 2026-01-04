@@ -71,11 +71,10 @@ Adjunct Assistant Professor
 Department of Physics,
 Brooklyn College, CUNY
 ------------------
-Postdoctoral Associate 
-Weill Cornell Medicine
-Department of Anesthesiology
-525 East 68th street
-New York, NY 10065
-iqh4001@med.cornell.edu
---------------------
+Postdoctoral Associate   
+Weill Cornell Medicine  
+Cornell University  
+New York, NY 10065  
+iqh4001@med.cornell.edu  
+--------------------  
 
