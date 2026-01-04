@@ -15,7 +15,7 @@ PHYS 2100 is the second semester of calculus-based General Physics. Topics inclu
 
 ## Weekly Course Schedule (Tentative)
 
-| Week | Topic | Tuesday (Chapter) | Thursday (Chapter) |
+| Week | Topic | Monday (Chapter) | Wednesday (Chapter) |
 |-----:|-------|-------------------|--------------------|
 | 1 | Electric Charge and Electric Field | Ch 18 | Ch 18 |
 | 2 | Electric Potential and Potential Energy | Ch 18 | Ch 19 |
