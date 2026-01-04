@@ -75,6 +75,5 @@ Postdoctoral Associate 
 Weill Cornell Medicine  
 Cornell University  
 New York, NY 10065  
-iqh4001@med.cornell.edu  
 --------------------  
 
