@@ -23,13 +23,12 @@ PHYS 2100 is the second semester of calculus-based General Physics. Topics inclu
 | 4 | Electric Current, Resistance, Ohm’s Law | Ch 20 | Ch 21 |
 | 5 | EMF and Kirchhoff’s Rules | Ch 21 | Ch 22 |
 | 6 | Null Measurements and RC Circuits | Ch 22 | Ch 22 |
-| 7 | Magnetism | Ch 23 | **Exam 1** |
+| 7 | Magnetism | **Exam 1** | Ch 23 |
 | 8 | Lorentz Force and Ampère’s Law | Ch 23 | Ch 23 |
 | 9 | Magnetic Flux and Faraday’s Law | Ch 24 | Ch 24 |
 |10 | Inductance, RL Circuits, AC & RLC Circuits | Ch 25 | Ch 25 |
 |11 | Electromagnetic Waves & Geometric Optics I | Ch 27 | Ch 27 |
-|12 | Geometric Optics II, Interference & Diffraction | Ch 27 | Ch 29 |
-|   | **Exam 2** |  |  |
+|12 | Geometric Optics II, Interference & Diffraction | Ch 27 | Ch 29 | **Exam 2** | 
 |13 | Polarization & Quantum Physics | Ch 30 | Ch 31 |
 |14 | Atomic, Nuclear & Medical Physics Applications | Ch 31 | Ch 32 |
 |15 | **Final Exam** | Registrar Scheduled |  |
