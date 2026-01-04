@@ -28,7 +28,7 @@ PHYS 2100 is the second semester of calculus-based General Physics. Topics inclu
 | 9 | Magnetic Flux and Faraday’s Law | Ch 24 | Ch 24 |
 |10 | Inductance, RL Circuits, AC & RLC Circuits | Ch 25 | Ch 25 |
 |11 | Electromagnetic Waves & Geometric Optics I | Ch 27 | Ch 27 |
-|12 | Geometric Optics II, Interference & Diffraction | Ch 27 | Ch 29 | **Exam 2** | 
+|12 | Geometric Optics II, Interference & Diffraction | Ch 29 | **Exam 2** | 
 |13 | Polarization & Quantum Physics | Ch 30 | Ch 31 |
 |14 | Atomic, Nuclear & Medical Physics Applications | Ch 31 | Ch 32 |
 |15 | **Final Exam** | Registrar Scheduled |  |
