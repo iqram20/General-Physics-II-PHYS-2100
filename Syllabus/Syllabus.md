@@ -45,7 +45,7 @@ PHYS 2100 is the second semester of calculus-based General Physics. Topics inclu
 ## Grading Policy
 | Component | Weight |
 |---------|--------|
-| Homework / Quizzes | 25% |
+| Attendance/Class Performance/Homework / Class Quizzes | 25% |
 | Midterm Exam 1 | 20% |
 | Midterm Exam 2 | 20% |
 | Final Exam | 35% |
