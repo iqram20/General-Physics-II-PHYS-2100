@@ -58,5 +58,154 @@ $$
 \vec{E} = k \frac{q}{r^2}\hat{r}
 $$
 
---
+---
 
+## Electric Force in an Electric Field
+$$
+\vec{F} = q\vec{E}
+$$
+
+---
+
+## Continuous Charge Distributions
+$$
+\lambda = \frac{Q}{L}
+$$
+
+$$
+\sigma = \frac{Q}{A}
+$$
+
+$$
+\rho = \frac{Q}{V}
+$$
+
+---
+
+## Fields from Common Distributions
+
+### Infinite Line Charge
+$$
+E = \frac{\lambda}{2\pi\varepsilon_0 r}
+$$
+
+### Infinite Sheet of Charge
+$$
+E = \frac{\sigma}{2\varepsilon_0}
+$$
+
+### Parallel Plates
+$$
+E = \frac{\sigma}{\varepsilon_0}
+$$
+
+---
+
+## Electric Dipole
+$$
+\vec{p} = q\vec{d}
+$$
+
+$$
+\tau = pE\sin\theta
+$$
+
+---
+
+## Motion of a Charged Particle
+$$
+\vec{F} = m\vec{a} = q\vec{E}
+$$
+
+$$
+a = \frac{qE}{m}
+$$
+
+---
+
+# Chapter 6 — Gauss’s Law
+
+## Electric Flux
+$$
+\Phi_E = \vec{E} \cdot \vec{A} = EA\cos\theta
+$$
+
+$$
+\Phi_E = \iint_S \vec{E}\cdot d\vec{A}
+$$
+
+---
+
+## Gauss’s Law
+$$
+\oint_S \vec{E}\cdot d\vec{A} = \frac{Q_{\text{enc}}}{\varepsilon_0}
+$$
+
+---
+
+## Conductors (Electrostatic Equilibrium)
+$$
+E_{\text{inside conductor}} = 0
+$$
+
+$$
+E_{\text{just outside}} = \frac{\sigma}{\varepsilon_0}
+$$
+
+---
+
+## Spherical Charge Distributions
+
+### Uniform Solid Sphere
+$$
+E = \frac{1}{4\pi\varepsilon_0}\frac{Qr}{R^3} \quad (r<R)
+$$
+
+$$
+E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r\ge R)
+$$
+
+---
+
+### Conducting Spherical Shell
+$$
+E = 0 \quad (r<R)
+$$
+
+$$
+E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r\ge R)
+$$
+
+---
+
+## Cylindrical Charge Distributions
+
+### Uniform Solid Cylinder
+$$
+E = \frac{\rho r}{2\varepsilon_0} \quad (r<R)
+$$
+
+$$
+E = \frac{\lambda}{2\pi\varepsilon_0 r} \quad (r\ge R)
+$$
+
+---
+
+## Infinite Sheet (Gauss’s Law Result)
+$$
+E = \frac{\sigma}{2\varepsilon_0}
+$$
+
+---
+
+## Parallel Plates
+$$
+E = \frac{\sigma}{\varepsilon_0}
+$$
+
+---
+
+## Flux–Charge Relation
+$$
+Q_{\text{enc}} = \varepsilon_0 \Phi_E
+$$
