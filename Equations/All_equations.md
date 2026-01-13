@@ -23,25 +23,26 @@ $$
 
 ## Common Parameter Definitions
 
-- \( q, q_1, q_2 \): point charges (C)
-- \( Q \): total charge (C)
-- \( Q_{\text{enc}} \): enclosed charge (C)
-- \( n \): number of elementary charges
-- \( r \): distance from charge or axis (m)
-- \( R \): radius of sphere or cylinder (m)
-- \( A \): area (m²)
-- \( V \): volume (m³)
-- \( L \): length (m)
-- \( \lambda \): linear charge density (C/m)
-- \( \sigma \): surface charge density (C/m²)
-- \( \rho \): volume charge density (C/m³)
-- \( \vec{E} \): electric field (N/C)
-- \( \vec{F} \): electric force (N)
-- \( \vec{A} \): area vector
-- \( \theta \): angle between field and area or velocity
-- \( m \): mass (kg)
-- \( \vec{p} \): electric dipole moment (C·m)
-- \( \Phi_E \): electric flux (N·m²/C)
+## Common Parameter Definitions
+- q, q1, q2: point charges (C)
+- Q: total charge (C)
+- Q_enc: enclosed charge (C)
+- n: number of elementary charges
+- r: distance from charge or axis (m)
+- R: radius of sphere or cylinder (m)
+- A: area (m^2)
+- V: volume (m^3)
+- L: length (m)
+- lambda (λ): linear charge density (C/m)
+- sigma (σ): surface charge density (C/m^2)
+- rho (ρ): volume charge density (C/m^3)
+- E (vector): electric field (N/C)
+- F (vector): electric force (N)
+- A (vector): area vector
+- theta (θ): angle between field and area (or velocity)
+- m: mass (kg)
+- p (vector): electric dipole moment (C·m)
+- Phi_E (Φ_E): electric flux (N·m^2/C)
 
 ---
 
