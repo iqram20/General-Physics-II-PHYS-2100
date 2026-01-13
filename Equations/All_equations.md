@@ -5,7 +5,7 @@
 
 </div>
 
----
+
 
 # Fundamental Constants (SI Units)
 
@@ -15,7 +15,7 @@
 - Vacuum permeability: μ₀ = 4π × 10⁻⁷ T·m/A  
 - Speed of light: c = 3.00 × 10⁸ m/s  
 
--
+
 
 # Common Symbols
 
