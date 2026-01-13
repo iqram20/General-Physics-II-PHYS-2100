@@ -21,6 +21,8 @@ $$
 
 # Common Parameter Definitions
 
+## Common Parameter Definitions
+
 - \( q, q_1, q_2 \): point charges (C)
 - \( Q \): total charge (C)
 - \( Q_{\text{enc}} \): enclosed charge (C)
@@ -38,7 +40,7 @@ $$
 - \( \vec{A} \): area vector
 - \( \theta \): angle between field and area or velocity
 - \( m \): mass (kg)
-- \( \vec{p} \): electric dipole moment
+- \( \vec{p} \): electric dipole moment (C·m)
 - \( \Phi_E \): electric flux (N·m²/C)
 
 ---
