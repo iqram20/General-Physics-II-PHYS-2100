@@ -1,225 +1,219 @@
-# PHYS 2100
-## Chapters 5 & 6 (Electric Charges, Fields, and Gauss’s Law)   
+<div align="center">
+
+# PHYS 2100 — Formula Sheet  
+## OpenStax *College Physics 2e* (Chapters 18–31)
+
+</div>
 
 ---
 
-# Constants (SI Units)
+# Fundamental Constants (SI Units)
 
-$$
-e = 1.602 \times 10^{-19}\ \text{C} \quad \text{(elementary charge)}
-$$
-
-$$
-\varepsilon_0 = 8.85 \times 10^{-12}\ \text{C}^2/(\text{N·m}^2) \quad \text{(vacuum permittivity)}
-$$
-
-$$
-k = \frac{1}{4\pi\varepsilon_0} = 8.99 \times 10^9\ \text{N·m}^2/\text{C}^2
-$$
+- Elementary charge: e = 1.602 × 10⁻¹⁹ C  
+- Coulomb constant: k = 8.99 × 10⁹ N·m²/C²  
+- Vacuum permittivity: ε₀ = 8.85 × 10⁻¹² C²/(N·m²)  
+- Vacuum permeability: μ₀ = 4π × 10⁻⁷ T·m/A  
+- Speed of light: c = 3.00 × 10⁸ m/s  
 
 ---
 
-# Common Parameter Definitions
+# Common Symbols
 
-## Common Parameter Definitions
-
-## Common Parameter Definitions
-- q, q1, q2: point charges (C)
-- Q: total charge (C)
-- Q_enc: enclosed charge (C)
-- n: number of elementary charges
-- r: distance from charge or axis (m)
-- R: radius of sphere or cylinder (m)
-- A: area (m^2)
-- V: volume (m^3)
-- L: length (m)
-- lambda (λ): linear charge density (C/m)
-- sigma (σ): surface charge density (C/m^2)
-- rho (ρ): volume charge density (C/m^3)
-- E (vector): electric field (N/C)
-- F (vector): electric force (N)
-- A (vector): area vector
-- theta (θ): angle between field and area (or velocity)
-- m: mass (kg)
-- p (vector): electric dipole moment (C·m)
-- Phi_E (Φ_E): electric flux (N·m^2/C)
+- q, Q : charge (C)  
+- r, R : distance or radius (m)  
+- A : area (m²)  
+- L : length (m)  
+- E : electric field (N/C)  
+- V : electric potential (V)  
+- I : current (A)  
+- R : resistance (Ω)  
+- C : capacitance (F)  
+- B : magnetic field (T)  
+- Φ : flux (Wb)  
+- θ : angle  
 
 ---
 
-# Chapter 5 — Electric Charges and Fields
+# Chapter 18 — Static Electricity
 
-## Charge
-$$
-Q = ne
-$$
+- Charge:
+  Q = n e  
 
----
-
-## Coulomb’s Law
-$$
-F = k \frac{|q_1 q_2|}{r^2}
-$$
-
-$$
-\vec{F}_{12} = k \frac{q_1 q_2}{r^2}\hat{r}
-$$
+- Coulomb’s Law:
+  F = k |q₁ q₂| / r²  
 
 ---
 
-## Superposition Principle
-$$
-\vec{F}_{\text{net}} = \sum_i \vec{F}_i
-$$
+# Chapter 19 — Electric Fields and Potential
 
-$$
-\vec{E}_{\text{net}} = \sum_i \vec{E}_i
-$$
+- Electric field definition:
+  E = F / q  
 
----
+- Electric field of point charge:
+  E = k q / r²  
 
-## Electric Field
-$$
-\vec{E} = \frac{\vec{F}}{q}
-$$
+- Electric force in field:
+  F = q E  
 
-$$
-\vec{E} = k \frac{q}{r^2}\hat{r}
-$$
+- Electric potential:
+  V = U / q  
+
+- Potential energy:
+  U = q V  
 
 ---
 
-## Electric Force in an Electric Field
-$$
-\vec{F} = q\vec{E}
-$$
+# Chapter 20 — Electric Potential and Capacitance
+
+- Capacitance:
+  C = Q / V  
+
+- Parallel-plate capacitor:
+  C = ε₀ A / d  
+
+- Energy stored in capacitor:
+  U = ½ C V²  
 
 ---
 
-## Continuous Charge Distributions
-$$
-\lambda = \frac{Q}{L}
-$$
+# Chapter 21 — Circuits, Bioelectricity, DC Instruments
 
-$$
-\sigma = \frac{Q}{A}
-$$
+- Current:
+  I = ΔQ / Δt  
 
-$$
-\rho = \frac{Q}{V}
-$$
+- Ohm’s Law:
+  V = I R  
 
----
+- Electric power:
+  P = I V = I² R = V² / R  
 
-## Electric Fields from Symmetric Distributions
+- Series resistance:
+  R_eq = R₁ + R₂ + ...  
 
-### Infinite Line Charge
-$$
-E = \frac{\lambda}{2\pi\varepsilon_0 r}
-$$
+- Parallel resistance:
+  1/R_eq = 1/R₁ + 1/R₂ + ...  
 
-### Infinite Sheet of Charge
-$$
-E = \frac{\sigma}{2\varepsilon_0}
-$$
-
-### Parallel Plates
-$$
-E = \frac{\sigma}{\varepsilon_0}
-$$
+- Terminal voltage:
+  V = ε − I r  
 
 ---
 
-## Electric Dipole
-$$
-\vec{p} = q\vec{d}
-$$
+# Chapter 22 — Magnetism
 
-$$
-\tau = pE\sin\theta
-$$
+- Magnetic force on charge:
+  F = q v B sinθ  
 
----
+- Magnetic force on wire:
+  F = I L B sinθ  
 
-## Motion of Charged Particle
-$$
-\vec{F} = m\vec{a} = q\vec{E}
-$$
-
-$$
-a = \frac{qE}{m}
-$$
+- Magnetic field (long straight wire):
+  B = μ₀ I / (2π r)  
 
 ---
 
-# Chapter 6 — Gauss’s Law
+# Chapter 23 — Electromagnetic Induction
 
-## Electric Flux
-$$
-\Phi_E = \vec{E}\cdot\vec{A} = EA\cos\theta
-$$
+- Magnetic flux:
+  Φ = B A cosθ  
 
-$$
-\Phi_E = \iint_S \vec{E}\cdot d\vec{A}
-$$
+- Faraday’s Law:
+  emf = − ΔΦ / Δt  
 
----
-
-## Gauss’s Law
-$$
-\oint_S \vec{E}\cdot d\vec{A} = \frac{Q_{\text{enc}}}{\varepsilon_0}
-$$
+- Motional emf:
+  emf = B L v  
 
 ---
 
-## Conductors (Electrostatic Equilibrium)
-$$
-E_{\text{inside conductor}} = 0
-$$
+# Chapter 24 — Inductance, AC Circuits
 
-$$
-E_{\text{just outside conductor}} = \frac{\sigma}{\varepsilon_0}
-$$
+- Inductance:
+  V = L (ΔI / Δt)  
 
----
+- Energy in inductor:
+  U = ½ L I²  
 
-## Spherical Charge Distributions
+- RMS voltage:
+  V_rms = V_max / √2  
 
-### Uniform Solid Sphere
-$$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Qr}{R^3} \quad (r < R)
-$$
-
-$$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r \ge R)
-$$
+- RMS current:
+  I_rms = I_max / √2  
 
 ---
 
-### Conducting Spherical Shell
-$$
-E = 0 \quad (r < R)
-$$
+# Chapter 25 — AC Circuits & Resonance
 
-$$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r \ge R)
-$$
+- Capacitive reactance:
+  X_C = 1 / (2π f C)  
 
----
+- Inductive reactance:
+  X_L = 2π f L  
 
-## Cylindrical Charge Distributions
-
-### Uniform Solid Cylinder
-$$
-E = \frac{\rho r}{2\varepsilon_0} \quad (r < R)
-$$
-
-$$
-E = \frac{\lambda}{2\pi\varepsilon_0 r} \quad (r \ge R)
-$$
+- Impedance:
+  Z = √(R² + (X_L − X_C)²)  
 
 ---
 
-## Flux–Charge Relation
-$$
-Q_{\text{enc}} = \varepsilon_0 \Phi_E
-$$
+# Chapter 26 — Electromagnetic Waves
+
+- Wave speed:
+  c = f λ  
+
+- Energy of EM wave:
+  E ∝ E² + B²  
+
+---
+
+# Chapter 27 — Geometric Optics
+
+- Index of refraction:
+  n = c / v  
+
+- Snell’s Law:
+  n₁ sinθ₁ = n₂ sinθ₂  
+
+- Thin lens equation:
+  1/f = 1/d_o + 1/d_i  
+
+- Magnification:
+  m = − d_i / d_o  
+
+---
+
+# Chapter 28 — Optical Instruments
+
+- Angular magnification (magnifier):
+  M = 25 cm / f  
+
+- Telescope magnification:
+  M = f_objective / f_eyepiece  
+
+---
+
+# Chapter 29 — Quantum Physics
+
+- Photon energy:
+  E = h f  
+
+- Photoelectric equation:
+  KE_max = h f − Φ  
+
+---
+
+# Chapter 30 — Atomic Physics
+
+- Bohr radius:
+  r_n = n² r₁  
+
+- Energy levels:
+  E_n = −13.6 eV / n²  
+
+---
+
+# Chapter 31 — Nuclear Physics
+
+- Mass–energy equivalence:
+  E = m c²  
+
+- Half-life:
+  N = N₀ (½)^(t / T₁/₂)  
+
