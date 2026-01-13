@@ -32,7 +32,7 @@
 - Φ : flux (Wb)  
 - θ : angle  
 
----
+
 
 # Chapter 18 — Static Electricity
 
@@ -42,7 +42,7 @@
 - Coulomb’s Law:
   F = k |q₁ q₂| / r²  
 
----
+
 
 # Chapter 19 — Electric Fields and Potential
 
@@ -61,7 +61,7 @@
 - Potential energy:
   U = q V  
 
----
+
 
 # Chapter 20 — Electric Potential and Capacitance
 
@@ -74,7 +74,7 @@
 - Energy stored in capacitor:
   U = ½ C V²  
 
----
+
 
 # Chapter 21 — Circuits, Bioelectricity, DC Instruments
 
@@ -96,7 +96,7 @@
 - Terminal voltage:
   V = ε − I r  
 
----
+
 
 # Chapter 22 — Magnetism
 
@@ -109,7 +109,7 @@
 - Magnetic field (long straight wire):
   B = μ₀ I / (2π r)  
 
----
+
 
 # Chapter 23 — Electromagnetic Induction
 
@@ -122,7 +122,7 @@
 - Motional emf:
   emf = B L v  
 
----
+
 
 # Chapter 24 — Inductance, AC Circuits
 
@@ -138,7 +138,7 @@
 - RMS current:
   I_rms = I_max / √2  
 
----
+
 
 # Chapter 25 — AC Circuits & Resonance
 
@@ -151,7 +151,7 @@
 - Impedance:
   Z = √(R² + (X_L − X_C)²)  
 
----
+
 
 # Chapter 26 — Electromagnetic Waves
 
@@ -161,7 +161,7 @@
 - Energy of EM wave:
   E ∝ E² + B²  
 
----
+
 
 # Chapter 27 — Geometric Optics
 
@@ -177,7 +177,7 @@
 - Magnification:
   m = − d_i / d_o  
 
----
+
 
 # Chapter 28 — Optical Instruments
 
@@ -187,7 +187,7 @@
 - Telescope magnification:
   M = f_objective / f_eyepiece  
 
----
+
 
 # Chapter 29 — Quantum Physics
 
@@ -197,7 +197,7 @@
 - Photoelectric equation:
   KE_max = h f − Φ  
 
----
+
 
 # Chapter 30 — Atomic Physics
 
@@ -207,7 +207,7 @@
 - Energy levels:
   E_n = −13.6 eV / n²  
 
----
+
 
 # Chapter 31 — Nuclear Physics
 
