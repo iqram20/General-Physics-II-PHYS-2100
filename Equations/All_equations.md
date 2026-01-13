@@ -1,5 +1,5 @@
-# PHYS 2100 — Chapters 5 & 6
-## Electric Charges, Fields, and Gauss’s Law
+# PHYS 2100
+## Chapters 5 & 6 (Electric Charges, Fields, and Gauss’s Law)   
 
 ---
 
