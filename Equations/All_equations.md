@@ -3,15 +3,14 @@
 
 ---
 
-# Chapter 5 — Electric Charges and Fields
-
-## Constants
-$$
-e = 1.602 \times 10^{-19}\ \text{C}
-$$
+# Constants (SI Units)
 
 $$
-\varepsilon_0 = 8.85 \times 10^{-12}\ \text{C}^2/(\text{N·m}^2)
+e = 1.602 \times 10^{-19}\ \text{C} \quad \text{(elementary charge)}
+$$
+
+$$
+\varepsilon_0 = 8.85 \times 10^{-12}\ \text{C}^2/(\text{N·m}^2) \quad \text{(vacuum permittivity)}
 $$
 
 $$
@@ -19,6 +18,32 @@ k = \frac{1}{4\pi\varepsilon_0} = 8.99 \times 10^9\ \text{N·m}^2/\text{C}^2
 $$
 
 ---
+
+# Common Parameter Definitions
+
+- \( q, q_1, q_2 \): point charges (C)
+- \( Q \): total charge (C)
+- \( Q_{\text{enc}} \): enclosed charge (C)
+- \( n \): number of elementary charges
+- \( r \): distance from charge or axis (m)
+- \( R \): radius of sphere or cylinder (m)
+- \( A \): area (m²)
+- \( V \): volume (m³)
+- \( L \): length (m)
+- \( \lambda \): linear charge density (C/m)
+- \( \sigma \): surface charge density (C/m²)
+- \( \rho \): volume charge density (C/m³)
+- \( \vec{E} \): electric field (N/C)
+- \( \vec{F} \): electric force (N)
+- \( \vec{A} \): area vector
+- \( \theta \): angle between field and area or velocity
+- \( m \): mass (kg)
+- \( \vec{p} \): electric dipole moment
+- \( \Phi_E \): electric flux (N·m²/C)
+
+---
+
+# Chapter 5 — Electric Charges and Fields
 
 ## Charge
 $$
@@ -82,7 +107,7 @@ $$
 
 ---
 
-## Fields from Common Distributions
+## Electric Fields from Symmetric Distributions
 
 ### Infinite Line Charge
 $$
@@ -112,7 +137,7 @@ $$
 
 ---
 
-## Motion of a Charged Particle
+## Motion of Charged Particle
 $$
 \vec{F} = m\vec{a} = q\vec{E}
 $$
@@ -127,7 +152,7 @@ $$
 
 ## Electric Flux
 $$
-\Phi_E = \vec{E} \cdot \vec{A} = EA\cos\theta
+\Phi_E = \vec{E}\cdot\vec{A} = EA\cos\theta
 $$
 
 $$
@@ -149,7 +174,7 @@ E_{\text{inside conductor}} = 0
 $$
 
 $$
-E_{\text{just outside}} = \frac{\sigma}{\varepsilon_0}
+E_{\text{just outside conductor}} = \frac{\sigma}{\varepsilon_0}
 $$
 
 ---
@@ -158,22 +183,22 @@ $$
 
 ### Uniform Solid Sphere
 $$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Qr}{R^3} \quad (r<R)
+E = \frac{1}{4\pi\varepsilon_0}\frac{Qr}{R^3} \quad (r < R)
 $$
 
 $$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r\ge R)
+E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r \ge R)
 $$
 
 ---
 
 ### Conducting Spherical Shell
 $$
-E = 0 \quad (r<R)
+E = 0 \quad (r < R)
 $$
 
 $$
-E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r\ge R)
+E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2} \quad (r \ge R)
 $$
 
 ---
@@ -182,25 +207,11 @@ $$
 
 ### Uniform Solid Cylinder
 $$
-E = \frac{\rho r}{2\varepsilon_0} \quad (r<R)
+E = \frac{\rho r}{2\varepsilon_0} \quad (r < R)
 $$
 
 $$
-E = \frac{\lambda}{2\pi\varepsilon_0 r} \quad (r\ge R)
-$$
-
----
-
-## Infinite Sheet (Gauss’s Law Result)
-$$
-E = \frac{\sigma}{2\varepsilon_0}
-$$
-
----
-
-## Parallel Plates
-$$
-E = \frac{\sigma}{\varepsilon_0}
+E = \frac{\lambda}{2\pi\varepsilon_0 r} \quad (r \ge R)
 $$
 
 ---
