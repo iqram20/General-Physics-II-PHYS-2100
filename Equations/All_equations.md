@@ -9,7 +9,7 @@
 
 # Fundamental Constants (SI Units)
 
-- Elementary charge: e = 1.602 × 10⁻¹⁹ C  
+- Electron charge: e = 1.602 × 10⁻¹⁹ C  
 - Coulomb constant: k = 8.99 × 10⁹ N·m²/C²  
 - Vacuum permittivity: ε₀ = 8.85 × 10⁻¹² C²/(N·m²)  
 - Vacuum permeability: μ₀ = 4π × 10⁻⁷ T·m/A  
