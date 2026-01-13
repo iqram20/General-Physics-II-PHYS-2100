@@ -45,7 +45,7 @@ Physics Textbook, 5th Edition by James S. Walker
 ## Grading Policy
 | Component | Weight |
 |---------|--------|
-| Attendance/Class Performance/Homework / Class Quizzes | 25% |
+| Attendance/ Class Performance/ Homework / Class Quizzes (In-person) | 25% |
 | Midterm Exam 1 | 20% |
 | Midterm Exam 2 | 20% |
 | Final Exam | 35% |
