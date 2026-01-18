@@ -58,7 +58,7 @@ Physics Textbook, 5th Edition by James S. Walker
 - No makeup exams without documented justification.
 - Calculators are allowed; phones and smart devices are not permitted during exams.
 - Academic integrity policies of the college apply.
-- In-Class Quizzes: Short quizzes will be conducted in person after each chapter, based on the same day’s lecture content, to ensure students’ understanding of the material. Almost similar problem set which sloved in class.  
+- In-Class Quizzes: Short quizzes will be conducted in person after each chapter, based on the same day’s lecture content, to ensure students’ understanding of the material. Almost similar problem set which sloved in class. Material will be given. No material purchase required. 
 ---
 
 ## Important Note
